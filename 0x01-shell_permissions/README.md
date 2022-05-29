@@ -1,1 +1,1 @@
-all groups the current user is part of
+change the owner of the file hello to the user betty
