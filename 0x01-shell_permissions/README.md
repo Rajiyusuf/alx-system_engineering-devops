@@ -1,1 +1,1 @@
-add execute permission to the owner and the group owner,and read permission to other users,to the file hello
+add executrion permission to the owner,the group owner and other users,to the file hello
