@@ -1,1 +1,1 @@
-display the content of the /etc/passed file
+script that display a confused smiley
